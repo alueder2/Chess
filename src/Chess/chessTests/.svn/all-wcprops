@@ -1,0 +1,73 @@
+END
+giraffeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/giraffeTests.java
+END
+boardTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/boardTests.java
+END
+locustTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/locustTests.java
+END
+kingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/kingTests.java
+END
+checkTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/checkTests.java
+END
+pawnTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/pawnTests.java
+END
+rookTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/rookTests.java
+END
+queenTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/queenTests.java
+END
+undoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/undoTest.java
+END
+bishopTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/bishopTests.java
+END
+checkmateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/checkmateTests.java
+END
+knightTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessTests/knightTests.java
+END

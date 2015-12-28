@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fa15-cs242/!svn/ver/5413/alueder2/Assignment1.1/src/Chess/chessLogic
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessLogic/Piece.java
+END
+Knight.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Knight.java
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Queen.java
+END
+Pawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fa15-cs242/!svn/ver/5398/alueder2/Assignment1.1/src/Chess/chessLogic/Pawn.java
+END
+extraPiecesGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fa15-cs242/!svn/ver/5543/alueder2/Assignment1.1/src/Chess/chessLogic/extraPiecesGame.java
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fa15-cs242/!svn/ver/5680/alueder2/Assignment1.1/src/Chess/chessLogic/Board.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Player.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Bishop.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Rook.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fa15-cs242/!svn/ver/5413/alueder2/Assignment1.1/src/Chess/chessLogic/King.java
+END
+Locust.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Locust.java
+END
+Giraffe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fa15-cs242/!svn/ver/5248/alueder2/Assignment1.1/src/Chess/chessLogic/Giraffe.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fa15-cs242/!svn/ver/5543/alueder2/Assignment1.1/src/Chess/chessLogic/Game.java
+END
+extraPiecesBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fa15-cs242/!svn/ver/5680/alueder2/Assignment1.1/src/Chess/chessLogic/extraPiecesBoard.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fa15-cs242/!svn/ver/5526/alueder2/Assignment1.1/src/Chess/chessLogic/Move.java
+END
